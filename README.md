@@ -60,7 +60,7 @@ A full-stack web application developed using PHP and MySQL for managing farmer r
 
 PHP, MySQL, HTML, CSS, JavaScript
 
-🔗 GitHub Repository:
+🔗 GitHub Repository: 
 https://github.com/shubhamj359/farmer-management-system
 
 ## 📈 Sales Data Analysis
